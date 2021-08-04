@@ -1,0 +1,14 @@
+{
+	"bitwise": true,
+	"browser": false,
+	"node": true,
+	"curly": true,
+	"eqeqeq": true,
+	"esversion": 6,
+	"futurehostile": true,
+	"strict": false,
+	"globals": {
+		"describe": true,
+		"it": true
+	}
+}
